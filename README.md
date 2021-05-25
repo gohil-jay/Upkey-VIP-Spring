@@ -130,3 +130,12 @@ Considering the following when writing user stories:
 - **Time**: If your story takes more than one sprint to complete, identify an estimated timeframe needed to complete the project by breaking down your story into smaller sprints.
 - **End**: The story is generally completed when the user can complete the outlined task. You need to define that point and clearly outline the task a user must do to meet this requirement.
 
+# Week 6 : Personal Portfolio
+
+This week's goal is to create a portfolio that showcases the work and skills you have gained over the last 5 weeks.
+
+**ULTIMATE GOAL of Portfolio**: Be creative as you can to meet your goals - also feel free to use any software or technology to support your portfolio.
+
+A portfolio should be something a student can take to job or college interviews. It serves as documentation of achievements and will be helpful to the student when filling out college and job applications in the years to come. Remember that your portfolio needs to be neat and to the point.
+
+Furthermore, in the lieu of this, I created a website based personal portfolio that can be accessed here : <a href="http://jaygohil-upkey.epizy.com/" target="_blank">JAY GOHIL's Upkey Jurney</a>.

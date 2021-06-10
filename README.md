@@ -1,6 +1,8 @@
 # Upkey-VIP-Spring
 Upkey’s Virtual Internship Program (VIP) is a global experiential learning program focusing on an introduction to managerial functions of leadership, finance, marketing, and entrepreneurship. This repository contains my work on projects that I completed as a part of being an Upkey VIP Intern.
 
+You can have a look at my internship experience through a dedicated blog on Upkey's website that has featured me: <a href="https://blog.upkey.com/skill-sets-from-my-upkey-internship-jay-gohil/" target="_blank">Jay Gohil's Upkey Experience</a>
+
 # Week 1 : Communication and Career Launch
 
 Create a 5-min PowerPoint Presentation (4-7 PowerPoint slides) that clearly introduces, explains, and concludes a representation of your SMART plan for the next 1 year. Based on the lessons learned during this week, you are required to ensure that you clearly communicate your goals, strategies to achieve those goals, and how you’d like Upkey to play a role in helping you achieve your goals. Based on the PowerPoint concepts attached in the resources for this week you will ensure that you clearly communicate your goals to your group.

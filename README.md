@@ -1,7 +1,7 @@
-# Upkey-VIP-Spring
+# Upkey VIP Spring
 Upkey’s Virtual Internship Program (VIP) is a global experiential learning program focusing on an introduction to managerial functions of leadership, finance, marketing, and entrepreneurship. This repository contains my work on projects that I completed as a part of being an Upkey VIP Intern.
 
-You can have a look at my internship experience through a dedicated blog on Upkey's website that has featured me: <a href="https://blog.upkey.com/skill-sets-from-my-upkey-internship-jay-gohil/" target="_blank">Jay Gohil's Upkey Experience</a>
+You can have a look at my internship experience through a dedicated blog on Upkey's website that has featured me: <a href="https://blog.upkey.com/skill-sets-from-my-upkey-internship-jay-gohil/" target="_blank">Skill Sets From My Upkey Internship - Jay Gohil</a>, or have a look at my website that goes through <a href="https://blog.upkey.com/skill-sets-from-my-upkey-internship-jay-gohil/" target="_blank"> Jay Gohil's Upkey Experience</a>!
 
 # Week 1 : Communication and Career Launch
 
@@ -140,4 +140,4 @@ This week's goal is to create a portfolio that showcases the work and skills you
 
 A portfolio should be something a student can take to job or college interviews. It serves as documentation of achievements and will be helpful to the student when filling out college and job applications in the years to come. Remember that your portfolio needs to be neat and to the point.
 
-Furthermore, in the lieu of this, I created a website based personal portfolio that can be accessed here : <a href="http://jaygohil-upkey.netlify.app/" target="_blank">JAY GOHIL's Upkey Jurney</a>.
+Furthermore, in the lieu of this, I created a website based personal portfolio that can be accessed here : <a href="http://jaygohil-upkey.netlify.app/" target="_blank">JAY GOHIL's Upkey Experience</a>.

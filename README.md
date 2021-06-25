@@ -1,7 +1,9 @@
 # Upkey VIP Spring
 Upkey’s Virtual Internship Program (VIP) is a global experiential learning program focusing on an introduction to managerial functions of leadership, finance, marketing, and entrepreneurship. This repository contains my work on projects that I completed as a part of being an Upkey VIP Intern.
 
-You can have a look at my internship experience through a dedicated blog on Upkey's website that has featured me: <a href="https://blog.upkey.com/skill-sets-from-my-upkey-internship-jay-gohil/" target="_blank">Skill Sets From My Upkey Internship - Jay Gohil</a>, or have a look at my website that goes through <a href="https://blog.upkey.com/skill-sets-from-my-upkey-internship-jay-gohil/" target="_blank"> Jay Gohil's Upkey Experience</a>!
+You can have a look at my internship experience through a dedicated blog on Upkey's website that has featured me: <a href="https://blog.upkey.com/skill-sets-from-my-upkey-internship-jay-gohil/" target="_blank">Skill Sets From My Upkey Internship - Jay Gohil</a>, or have a look at my website that goes through <a href="http://jaygohil-upkey.netlify.app/" target="_blank"> Jay Gohil's Upkey Experience</a>!
+
+![Upkey VIP Certificate](https://raw.githubusercontent.com/gohil-jay/Upkey-VIP-Spring/main/Jay%20Gohil%20%20-%20Spring%20Virtual%20Internship%20Certificate.jpg)
 
 # Week 1 : Communication and Career Launch
 
